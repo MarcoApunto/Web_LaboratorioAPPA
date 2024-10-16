@@ -13,7 +13,3 @@ Incluye:
 -Textos
 <br>
 -Recursividad
-<br>
-<br>
-Esta web ha sido un proyecto de <a href="https://github.com/albafdez" target="_blank">Alba Fernandez y <a href="https://github.com/MarcoApunto" target="_blank">Marco Ferreira
-</a>
